@@ -3,32 +3,44 @@ body {
     width: 940px;
     margin: 0 auto;
 }
-h1 {
+
+.titulo {
     color: #3D3D3D;
     background-color: #E1EDF2;
     padding: 10px;
 }
-h2 {
+
+.subtitulo {
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+    padding: 10px;
+}
+
+#história {
     border-bottom: 2px solid black;
 }
+
 figure {
     background-color: whitesmoke;
     color: rgb(92, 92, 92);
     padding: 15px;
     margin: 30px;
 }
+
 figcaption {
     margin-top: 10px;
 }
+
 #matriz {
     width: 550px;
-   margin: 0 auto;
+    margin: 0 auto;
 }
+
 #familia {
     width: 275px;
     float: right;
 }
+
 figure img {
     width: 100%;
-}
 }
